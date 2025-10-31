@@ -166,7 +166,7 @@ All rights reserved &copy; 2025 Oğuz Mert Coşkun.
 ---
 
 ## 📂 Repository Structure
-
+```
 UART-Protocol-in-VHDL/
 │
 ├── VHDL Files/            # ✅ Core VHDL source files
@@ -178,7 +178,7 @@ UART-Protocol-in-VHDL/
 │   └── my_pll.vhd
 │
 └── README.md
-
+```
 
 ### 🧩 Keywords
 
