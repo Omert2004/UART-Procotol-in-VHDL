@@ -167,7 +167,17 @@ All rights reserved &copy; 2025 Oğuz Mert Coşkun.
 
 ## 📂 Repository Structure
 
-UART-Protocol-in-VHDL/ │ ├── src/ # ✅ Core VHDL source files │ ├── TX_Block.vhd │ ├── RX_Block.vhd │ ├── RX_Controller.vhd │ ├── ALU_Block.vhd │ ├── UART_Board_Top.vhd │ └── my_pll.vhd │ ├── simulation/ # Testbench and ModelSim configuration files │ ├── testbench_tx.vhd │ ├── testbench_rx.vhd │ └── uart_waveforms.do │ └── README.md
+UART-Protocol-in-VHDL/
+│
+├── VHDL Files/            # ✅ Core VHDL source files
+│   ├── TX_Block.vhd
+│   ├── RX_Block.vhd
+│   ├── RX_Controller.vhd
+│   ├── ALU_Block.vhd
+│   ├── UART_Board_Top.vhd
+│   └── my_pll.vhd
+│
+└── README.md
 
 
 ### 🧩 Keywords
